@@ -132,7 +132,3 @@ client_data()
 
 
 
-"""  https://via.placeholder.com/400x250?text=Aadhaar+Card+Image
-https://via.placeholder.com/400x250?text=Birth+Certificate+Image
-https://via.placeholder.com/400x250?text=Marksheet+Image
- """ 
